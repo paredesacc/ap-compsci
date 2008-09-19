@@ -1,0 +1,30 @@
+/******************************
+  * Marco Paredes III
+  * P3.5 CAR
+  ***************************/
+public class BeatleBorgs
+{
+     private int position;
+     private
+     public BeatleBorgs (int initPosition)
+     {
+          private initPosition = position;
+          position = 0;
+          
+     public void move()
+     {
+          position += 1;
+     }
+     
+     public void turn()
+     {
+        
+          
+          
+          
+         
+          
+          
+          
+          
+ 
