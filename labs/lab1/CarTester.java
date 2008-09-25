@@ -1,0 +1,18 @@
+/********************************************
+ * Marco Paredes III
+ * CarTester
+ * Description: Uses the Bug object to move and turn
+ * ***************************************/
+
+public class CarTester
+{
+     public static void main (String args [])
+     {
+          Car whip = new Car (100);
+          whip.addGas(10); 
+          whip.drive(20);
+ 
+          System.out.println ("The whip currently has " + whip.checkGas() + "gallons remaining.");
+     }
+}
+ 
